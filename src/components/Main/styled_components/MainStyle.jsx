@@ -69,4 +69,40 @@ export const MainWrapper = styled.div`
             }
         }
     }
-`;
+
+    &.fade-in {
+        -webkit-animation: fade-in 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+        animation: fade-in 2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    }
+
+    @-webkit-keyframes fade-in {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @keyframes fade-in {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+`
+
+export const SpinnerWrapper = styled.div`
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0;
+
+    .spinner-border {
+        width: 8rem;
+        height: 8rem;
+    }
+`
