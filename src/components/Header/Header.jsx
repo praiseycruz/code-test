@@ -1,6 +1,6 @@
 import React from 'react'
-import { Container, Nav, Navbar, Image } from 'react-bootstrap'
-import { HeaderWrapper, SearchWrapper } from './styled_components/HeaderStyle'
+import { Container, Nav, Navbar } from 'react-bootstrap'
+import { HeaderWrapper } from './styled_components/HeaderStyle'
 
 export class Header extends React.Component {
     constructor(props) {
