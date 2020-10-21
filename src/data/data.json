@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "songTitle": "Mood",
+        "songArtist": "24kGoldn ft. iann dior",
+        "songCover": "./images/song-covers/mood.jpg"
+    },
+    {
+        "id": 2,
+        "songTitle": "WAP",
+        "songArtist": "Cardi B ft. Megan Thee Stallion",
+        "songCover": "./images/song-covers/wap.jpg"
+    },
+    {
+        "id": 3,
+        "songTitle": "Laugh Now Cry Later",
+        "songArtist": "Drake ft. Lil Durk",
+        "songCover": "./images/song-covers/lncl.jpg"
+    },
+    {
+        "id": 4,
+        "songTitle": "Blinding Lights",
+        "songArtist": "The Weeknd",
+        "songCover": "./images/song-covers/blinding-lights.jpg"
+    },
+    {
+        "id": 5,
+        "songTitle": "Dynamite",
+        "songArtist": "BTS",
+        "songCover": "./images/song-covers/dynamite.jpg"
+    },
+    {
+        "id": 6,
+        "songTitle": "Savage Love",
+        "songArtist": "Jason Derulo",
+        "songCover": "./images/song-covers/savage-love.jpg"
+    },
+    {
+        "id": 7,
+        "songTitle": "Rockstar",
+        "songArtist": "DaBaby ft. Roddy Rich",
+        "songCover": "./images/song-covers/rockstar.jpg"
+    },
+    {
+        "id": 8,
+        "songTitle": "I Hope",
+        "songArtist": "Gabby Barett ft. Charlie Puth",
+        "songCover": "./images/song-covers/ihope.jpg"
+    },
+    {
+        "id": 9,
+        "songTitle": "Watermelon Sugar",
+        "songArtist": "Harry Styles",
+        "songCover": "./images/song-covers/watermelon-sugar.jpg"
+    },
+    {
+        "id": 10,
+        "songTitle": "Lovesick Girls",
+        "songArtist": "BLACKPINK",
+        "songCover": "./images/song-covers/lovesickgirls.jpg"
+    },
+    {
+        "id": 11,
+        "songTitle": "Before You Go",
+        "songArtist": "Lewis Capaldi",
+        "songCover": "./images/song-covers/byg.jpg"
+    },
+    {
+        "id": 12,
+        "songTitle": "Dreams",
+        "songArtist": "Fleetwood mac",
+        "songCover": "./images/song-covers/dreams.jpg"
+    }
+]

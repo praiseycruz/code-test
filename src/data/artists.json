@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "artist": "BTS",
+        "img": "./images/song-covers/artist-bts.jpg"
+    },
+    {
+        "id": 2,
+        "artist": "Van Halen",
+        "img": "./images/song-covers/artist-van.jpg"
+    },
+    {
+        "id": 3,
+        "artist": "Fleetwood Mac",
+        "img": "./images/song-covers/artist-fleetwood.jpg"
+    },
+    {
+        "id": 4,
+        "artist": "Juice WRLD",
+        "img": "./images/song-covers/artist-juice.jpg"
+    },
+    {
+        "id": 5,
+        "artist": "Pop Smoke",
+        "img": "./images/song-covers/artist-popsmoke.jpg"
+    },
+    {
+        "id": 6,
+        "artist": "The Weeknd",
+        "img": "./images/song-covers/artist-weeknd.jpg"
+    },
+    {
+        "id": 7,
+        "artist": "Luke Combs",
+        "img": "./images/song-covers/artist-luke.jpg"
+    },
+    {
+        "id": 8,
+        "artist": "Harry Styles",
+        "img": "./images/song-covers/artist-harry.jpg"
+    },
+    {
+        "id": 9,
+        "artist": "BLACKPINK",
+        "img": "./images/song-covers/artist-bp.jpg"
+    },
+    {
+        "id": 10,
+        "artist": "Post Malone",
+        "img": "./images/song-covers/artist-pm.jpg"
+    },
+    {
+        "id": 11,
+        "artist": "Morgan Wallen",
+        "img": "./images/song-covers/artist-mw.jpg"
+    },
+    {
+        "id": 12,
+        "artist": "Drake",
+        "img": "./images/song-covers/artist-drake.jpg"
+    }
+]
